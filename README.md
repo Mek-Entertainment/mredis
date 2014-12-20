@@ -1,4 +1,4 @@
 mredis
 ======
 
-A C redis interface using SDL_net
+A portable C redis interface using SDL_net
